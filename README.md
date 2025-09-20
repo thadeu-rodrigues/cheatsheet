@@ -1,14 +1,4 @@
-# OSCP Enumeration Cheat Sheet
-
-A collection of commands and tools used for conducting enumeration during my OSCP journey.
-
-## Description
-
-This is an enumeration cheat sheet that I created while pursuing the OSCP. It also includes the commands that I used on platforms such as Vulnhub and Hack the Box. Some of these commands are based on those executed by the [Autorecon](https://github.com/Tib3rius/AutoRecon) tool.
-
-## Disclaimer
-
-This cheat sheet should not be considered to be complete and only represents a snapshot in time when I used these commands for performing enumeration during my OSCP journey. These commands should only be used for educational purposes or authorised testing.
+Cheat Sheet
 
 Table of Contents
 =================
